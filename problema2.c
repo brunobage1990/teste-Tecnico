@@ -22,12 +22,12 @@ int isFibonacci(int n) {
 
 int main() {
     int num;
-    printf("Enter a number: ");
+    printf("Informe um número: ");
     scanf("%d", &num);
     if (isFibonacci(num))
-        printf("%d is a Fibonacci number\n", num);
+        printf("%d é um número Fibonacci\n", num);
     else
-        printf("%d is not a Fibonacci number\n", num);
+        printf("%d não é um número Fibonacci \n", num);
     return 0;
 }
 

@@ -17,12 +17,12 @@ void inverteString(char* str) {
 
 int main() {
     char str[100];
-    printf("Enter a string: ");
+    printf("Digite uma string: ");
     fgets(str, sizeof(str), stdin);
     str[strcspn(str, "\n")] = 0; // Remove o caractere de nova linha
 
     inverteString(str);
-    printf("Inverted string: %s\n", str);
+    printf("Inversão de string: %s\n", str);
 
     return 0;
 }
