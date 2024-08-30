@@ -1,4 +1,5 @@
 # teste-Tecnico
+# A linguagem utilizada foi a linguagem de programação em C.
 1) Observe o trecho de código abaixo: int INDICE = 13, SOMA = 0, K = 0;
 Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; }
 Imprimir(SOMA);
@@ -36,3 +37,6 @@ IMPORTANTE:
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 
 b) Evite usar funções prontas, como, por exemplo, reverse;
+
+# terá também em linguagem C++, identificados como probrema1.1.c,probrema2.1.c,probrema3.1.c,probrema4.1.c,probrema5.1.c
+# terá também em linguagem .Net, identificados como probrema1.2.c,probrema2.2.c,probrema3.2.c,probrema4.2.c,probrema5.2.c
